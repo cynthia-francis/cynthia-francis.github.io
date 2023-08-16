@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Academic Tutor"
 collection: teaching
-type: "Undergraduate course"
+type: "BUS105: Business Mathematics"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Lebanese American University, Department of Information Technology & Operations Management"
+date: 2023-01-01
+location: "Beirut, Lebanon"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Provided personalized, one-on-one and small group tutoring sessions to undergraduate business students.
+- Assisted students in understanding and applying mathematical concepts relevant to business disciplines, such as finance, economics, and accounting.
+- Created tailored lesson plans and instructional materials that align with the curriculum and cater to diverse learning styles.
 
 Heading 1
 ======

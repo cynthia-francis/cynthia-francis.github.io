@@ -12,11 +12,4 @@ location: "Beirut, Lebanon"
 - Assisted students in understanding and applying mathematical concepts relevant to business disciplines, such as finance, economics, and accounting.
 - Created tailored lesson plans and instructional materials that align with the curriculum and cater to diverse learning styles.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

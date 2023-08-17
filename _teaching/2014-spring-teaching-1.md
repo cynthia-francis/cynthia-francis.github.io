@@ -4,7 +4,7 @@ collection: teaching
 type: "BUS105: Business Mathematics"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Lebanese American University, Department of Information Technology & Operations Management"
-date: 2023
+date: 2023-01-01
 location: "Beirut, Lebanon"
 ---
 

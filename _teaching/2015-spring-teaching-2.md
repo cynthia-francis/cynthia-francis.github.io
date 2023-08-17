@@ -3,7 +3,7 @@ title: "Coding Instructor"
 collection: teaching
 type: 
 permalink: /teaching/2015-spring-teaching-1
-venue: "Geek Express"
+venue: 
 date: 2023-01-01
 location: "Beirut, Lebanon"
 ---

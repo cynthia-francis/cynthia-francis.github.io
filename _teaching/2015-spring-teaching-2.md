@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Coding Instructor"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "[Geek Express](https://www.geekexpress.com/en)"
+date: 2023-01-01
+location: "Beirut, Lebanon"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Led development of virtual 3D game design for students with [HatchXR](https://hatchxr.com/) through a Hackathon.
+- Taught app development courses & block-based coding for students aged 11-14 with [MIT App Inventor](https://appinventor.mit.edu/) and published applications on Google Play.
 
 Heading 1
 ======

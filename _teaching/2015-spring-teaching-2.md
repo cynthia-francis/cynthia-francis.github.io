@@ -1,6 +1,7 @@
 ---
 title: "Coding Instructor"
 collection: teaching
+type: "Coding Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Geek Express"
 date: 2023-01-01

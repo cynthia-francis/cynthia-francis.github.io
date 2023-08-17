@@ -1,6 +1,6 @@
 ---
 title: "Datafication for MindTrack: Platform for Detecting ADHD in Children"
-excerpt: "Conceptualized a datafication memo for MindTrack, an AI platform to help with the early detection of ADHD in children<br/><img src='/images/Logo copy.jpeg'>"
+excerpt: "Conceptualized a datafication memo for MindTrack, an AI platform to help with the early detection of ADHD in children"
 collection: portfolio
 ---
 
